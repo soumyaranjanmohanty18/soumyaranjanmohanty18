@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soumya ranjan mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya ranjan mohanty" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/soumya-ranjan-mohanty-91a5a131b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya ranjan mohanty" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/soumya ranjan mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soumya ranjan mohanty" height="30" width="40" /></a>
 <a href="https://instagram.com/soumyaranjanmohantybanty9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumyaranjanmohantybanty9" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/soumya ranjan mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soumya ranjan mohanty" height="30" width="40" /></a>
